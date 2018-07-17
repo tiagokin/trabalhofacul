@@ -42,7 +42,7 @@ int valor;
 
 struct sistem pessoa[2];
 
-arq=fopen("pessoas.txt","a");//abri ou criar.
+arq=fopen("pessoas.txt","a");//abri ou criar..
 
 while(op!=0){
 
