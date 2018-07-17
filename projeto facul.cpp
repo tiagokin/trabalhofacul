@@ -46,7 +46,7 @@ arq=fopen("pessoas.txt","a");//abri ou criar
 
 while(op!=0){
 
-tela();//mostrar a tela
+tela();//mostrar a tela ..
 
 scanf("%d",&op);//ler a op
 
