@@ -88,7 +88,7 @@ printf("limite excedido\n");
 
 }
 
-printf("\ntecle entrer para voltar ao menu anterior\n");
+printf("\ntecle enter para voltar ao menu anterior\n");
 
 getch();//voltar a tela inicial
 
@@ -118,7 +118,7 @@ printf("%s\n",&conteudo);//escrever o arquivo
 
 }
 
-printf("\ntecle entrer para voltar ao menu anterior\n");
+printf("\ntecle enter para voltar ao menu anterior\n");
 
 getch();//voltar ao menu
 
@@ -172,7 +172,7 @@ printf("\nInvalido -ID nao existe");//id não existe
 
 }
 
-printf("\ntecle entrer para voltar ao menu anterior\n");
+printf("\ntecle enter para voltar ao menu anterior\n");
 
 getch();//voltar ao menu
 
@@ -186,7 +186,7 @@ fclose(arq);//fechar arquivo
 
 printf("conteudo excluido");
 
-printf("\ntecle entrer para voltar ao menu anterior\n");
+printf("\ntecle enter para voltar ao menu anterior\n");
 
 getch();//voltar a tela inicial
 
